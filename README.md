@@ -4,7 +4,7 @@
 
 Esta aplicação é uma API de calendário. Quando a rota de geramento, de um calendário de determinado ano, é acessada a API responde com o calendário em formato de código HTML.
 
-Este calendário foi feito com a finalidade de calcular os dias dos anos antigos e atuais. Este calcula desde o ano 1 até, por padão, o ano 5000. Este candário possúi os Anni Domini do calendário Juliano e os do calendário Gregoriano.
+Este calendário foi feito com a finalidade de calcular os dias dos anos antigos e atuais. Este calcula desde o ano 1 até, por padão, o ano 5000. Este candário possúi os Annos Domini do calendário Juliano e os do calendário Gregoriano.
 
 A páscoa deste calendário foi calculada, nos anos Julianos, com o método criado pelo monge Dionysius Exiguus e nos anos Gregorianos foi calculada pelo método de Tom O'Beirne.
 
